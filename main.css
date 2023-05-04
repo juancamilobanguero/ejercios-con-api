@@ -7,8 +7,12 @@ style
 
 body {
     font-family: 'Montserrat', sans-serif;
-    background: #e3d0d0;
-    color: #1d1d1d;
+    background: rgb(85, 144, 189);
+    background: linear-gradient(
+      90deg,
+      rgb(75, 78, 80) 0%,
+      rgb(40, 44, 47) 54%,
+      rgba(182, 216, 242, 1) 82%);
 }
 
 .titte{
